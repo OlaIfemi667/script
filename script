@@ -1,0 +1,1 @@
+git clone https://github.com/3rfaan/hyprforest-installer.git $HOME/Downloads/hyprforest-installer && cd $HOME/Downloads/hyprforest-installer && cargo run
